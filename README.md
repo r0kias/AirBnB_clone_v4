@@ -150,23 +150,5 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## 🐞 Bugs
-No known bugs at this time. 
-
-## 🧑‍💻 Authors
-Original project: 
-- Joann Vuong - [GitHub](https://github.com/jvpupcat)
-
-AirBnB_clone_v2 forked from [this repository](https://github.com/alexaorrico/AirBnB_clone_v2) wrote by:
-- Alexa Orrico - [GitHub](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Jennifer Huang - [GitHub](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-
-AirBnB_clone_v3 forked from [this repository](https://github.com/jzamora5/AirBnB_clone_v3) wrote by:
-- Jhoan Stiven Zamora Caicedo - [GitHub](https://github.com/jzamora5)
-- David Ovalle Ariza - [GitHub](https://github.com/Nukemenonai)
-
-Improved by:
-- Med Salah Bourouba (Brandixitor) - [GitHub](https://github.com/Brandixitor)  
-- Wael Ben Hassen - [GitHub](https://github.com/LINK)
 ## ⚖️ License
 Public Domain. No copy write protection. 
